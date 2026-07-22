@@ -1,0 +1,218 @@
+{
+  "file": "msg15 (1).nat",
+  "md5": "5ac15e68b28cc0308b17975f5387af0e",
+  "platform": "Meteosat-9",
+  "sensing_start": "2026-06-22 00:00:00",
+  "sensing_end": "2026-06-22 00:15:00",
+  "generation_time": "2026-07-16T09:39:23Z",
+  "output_root": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z",
+  "products": [
+    {
+      "product": "VIS 0.6 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\VIS006.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\VIS006.tif"
+    },
+    {
+      "product": "VIS 0.8 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\VIS008.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\VIS008.tif"
+    },
+    {
+      "product": "NIR 1.6 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\IR_016.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\IR_016.tif"
+    },
+    {
+      "product": "IR 3.9 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\IR_039.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\IR_039.tif"
+    },
+    {
+      "product": "WV 6.2 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\WV_062.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\WV_062.tif"
+    },
+    {
+      "product": "WV 7.3 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\WV_073.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\WV_073.tif"
+    },
+    {
+      "product": "IR 8.7 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\IR_087.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\IR_087.tif"
+    },
+    {
+      "product": "IR 9.7 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\IR_097.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\IR_097.tif"
+    },
+    {
+      "product": "IR 10.8 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\IR_108.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\IR_108.tif"
+    },
+    {
+      "product": "IR 12.0 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\IR_120.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\IR_120.tif"
+    },
+    {
+      "product": "IR 13.4 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\IR_134.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\IR_134.tif"
+    },
+    {
+      "product": "HRV 0.7 um",
+      "type": "channel",
+      "status": "ok",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\channels\\HRV.png",
+      "tif": "E:\\NASTAP\\Assignment 4\\output_v2\\20260622T0000Z\\geotiff\\HRV.tif"
+    },
+    {
+      "product": "Natural Color",
+      "type": "composite",
+      "composite_key": "natural_color",
+      "status": "error",
+      "reason": "'natural_color' missing after resample (avail: [])",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": null,
+      "tif": null
+    },
+    {
+      "product": "Airmass RGB",
+      "type": "composite",
+      "composite_key": "airmass",
+      "status": "error",
+      "reason": "'airmass' missing after resample (avail: [])",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": null,
+      "tif": null
+    },
+    {
+      "product": "Dust RGB",
+      "type": "composite",
+      "composite_key": "dust",
+      "status": "error",
+      "reason": "'dust' missing after resample (avail: [])",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": null,
+      "tif": null
+    },
+    {
+      "product": "Ash RGB",
+      "type": "composite",
+      "composite_key": "ash",
+      "status": "error",
+      "reason": "'ash' missing after resample (avail: [])",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": null,
+      "tif": null
+    },
+    {
+      "product": "Convection RGB",
+      "type": "composite",
+      "composite_key": "convection",
+      "status": "error",
+      "reason": "'convection' missing after resample (avail: [])",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": null,
+      "tif": null
+    },
+    {
+      "product": "Fog RGB",
+      "type": "composite",
+      "composite_key": "fog",
+      "status": "error",
+      "reason": "'fog' missing after resample (avail: [])",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": null,
+      "tif": null
+    },
+    {
+      "product": "Night Microphysics RGB",
+      "type": "composite",
+      "composite_key": "night_microphysics",
+      "status": "error",
+      "reason": "'night_microphysics' missing after resample (avail: [])",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": null,
+      "tif": null
+    },
+    {
+      "product": "Day Severe Storms RGB",
+      "type": "composite",
+      "composite_key": "day_severe_storms",
+      "status": "error",
+      "reason": "'day_severe_storms' missing after resample (avail: [])",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": null,
+      "tif": null
+    },
+    {
+      "product": "IR 10.8 Colorized",
+      "type": "composite",
+      "composite_key": "colorized_ir_clouds",
+      "status": "error",
+      "reason": "'colorized_ir_clouds' missing after resample (avail: [])",
+      "sensing_time": "2026-06-22 00:00:00",
+      "generation_time": "2026-07-16T09:39:23Z",
+      "png": null,
+      "tif": null
+    }
+  ]
+}

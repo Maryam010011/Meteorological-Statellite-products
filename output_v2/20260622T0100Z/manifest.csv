@@ -1,0 +1,22 @@
+product,type,status,sensing_time,generation_time,png,tif
+VIS 0.6 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\VIS006.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\VIS006.tif
+VIS 0.8 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\VIS008.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\VIS008.tif
+NIR 1.6 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\IR_016.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\IR_016.tif
+IR 3.9 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\IR_039.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\IR_039.tif
+WV 6.2 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\WV_062.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\WV_062.tif
+WV 7.3 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\WV_073.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\WV_073.tif
+IR 8.7 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\IR_087.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\IR_087.tif
+IR 9.7 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\IR_097.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\IR_097.tif
+IR 10.8 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\IR_108.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\IR_108.tif
+IR 12.0 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\IR_120.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\IR_120.tif
+IR 13.4 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\IR_134.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\IR_134.tif
+HRV 0.7 um,channel,ok,2026-06-22 01:00:00,2026-07-16T09:58:04Z,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\channels\HRV.png,E:\NASTAP\Assignment 4\output_v2\20260622T0100Z\geotiff\HRV.tif
+Natural Color,composite,error,2026-06-22 01:00:00,2026-07-16T09:58:04Z,,
+Airmass RGB,composite,error,2026-06-22 01:00:00,2026-07-16T09:58:04Z,,
+Dust RGB,composite,error,2026-06-22 01:00:00,2026-07-16T09:58:04Z,,
+Ash RGB,composite,error,2026-06-22 01:00:00,2026-07-16T09:58:04Z,,
+Convection RGB,composite,error,2026-06-22 01:00:00,2026-07-16T09:58:04Z,,
+Fog RGB,composite,error,2026-06-22 01:00:00,2026-07-16T09:58:04Z,,
+Night Microphysics RGB,composite,error,2026-06-22 01:00:00,2026-07-16T09:58:04Z,,
+Day Severe Storms RGB,composite,error,2026-06-22 01:00:00,2026-07-16T09:58:04Z,,
+IR 10.8 Colorized,composite,error,2026-06-22 01:00:00,2026-07-16T09:58:04Z,,
